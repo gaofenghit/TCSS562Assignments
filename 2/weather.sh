@@ -1,4 +1,8 @@
-#!/bin/bash
+#!/bin/bash                                                    #
+#  Author: Feng Gao                                            #
+#  git clone https://github.com/gaofenghit/TCSS562Assignments  #
+#                                                              #
+################################################################
 
 cd `dirname $0`
 set -eu
