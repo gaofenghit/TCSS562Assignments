@@ -1,4 +1,4 @@
-#!/bin/bash                                                    #
+#!/bin/bash
 #  Author: Feng Gao                                            #
 #  git clone https://github.com/gaofenghit/TCSS562Assignments  #
 #                                                              #
